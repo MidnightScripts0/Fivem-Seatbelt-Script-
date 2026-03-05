@@ -122,12 +122,6 @@ reserves the right to take legal action and claim damages.
 By installing/using this script, you agree to these license terms.
 
 
-=====================================================================
-OPTIONAL: MIT LICENSE (NUR WENN DU ES WIRKLICH OPEN SOURCE WILLST)
-(ACHTUNG: MIT erlaubt Weitergabe/Verkauf — widerspricht Anti-Resell!)
-=====================================================================
-
-MIT License
 
 Copyright (c) 2026 Midnight Scripts
 
